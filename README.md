@@ -1,2 +1,2 @@
-# MultiPlayer-Game-Animation-Added
-New!!Animation Added
+# synchronousBallMovement
+Ball moving synchronously
